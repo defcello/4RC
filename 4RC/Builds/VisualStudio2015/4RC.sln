@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{C502099D-56CB-0FAC-B690-E2ABFCD38A07}") = "4RC", "4RC.vcxproj", "{07635C64-8A7A-0397-2E01-F4BBC7A37096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07635C64-8A7A-0397-2E01-F4BBC7A37096}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07635C64-8A7A-0397-2E01-F4BBC7A37096}.Debug|Win32.Build.0 = Debug|Win32
+		{07635C64-8A7A-0397-2E01-F4BBC7A37096}.Release|Win32.ActiveCfg = Release|Win32
+		{07635C64-8A7A-0397-2E01-F4BBC7A37096}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
